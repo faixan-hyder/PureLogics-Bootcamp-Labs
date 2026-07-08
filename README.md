@@ -12,11 +12,11 @@ This bootcamp is designed to transform me into a **Full Stack Developer** with e
 
 | Goal | Description |
 |------|-------------|
-| ✅ Python Mastery | Complete Python programming from basics to advanced |
-| ✅ Data Science | NumPy, Pandas, Data Analysis, Visualization |
-| ✅ AI & ML | Machine Learning, Deep Learning, Neural Networks |
-| ✅ Full Stack | Frontend + Backend + Databases + Deployment |
-| ✅ Real Projects | Build industry-ready AI applications |
+| Python Mastery | Complete Python programming from basics to advanced |
+| Data Science | NumPy, Pandas, Data Analysis, Visualization |
+| AI & ML | Machine Learning, Deep Learning, Neural Networks |
+| Full Stack | Frontend + Backend + Databases + Deployment |
+| Real Projects | Build industry-ready AI applications |
 
 ---
 
