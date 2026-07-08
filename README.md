@@ -24,11 +24,11 @@ This bootcamp is designed to transform me into a **Full Stack Developer** with e
 
 | Lab # | Topic | Status |
 |-------|-------|--------|
-| Lab 01 | Virtual Environment Setup | ✅ Completed |
-| Lab 02 | Python Fundamentals and Data Structures | ✅ Completed |
-| Lab 03 | Function, File, I/O, Numpy and Pandas | ✅ Completed |
-| Lab 04 | Advanced Pandas and Data Manipluation | ✅ Completed |
-| Lab 05 | Data Anaylsis with Python | ✅ Completed |
+| Week 01, Lab 01 | Virtual Environment Setup | ✅ Completed |
+| Week 01, Lab 02 | Python Fundamentals and Data Structures | ✅ Completed |
+| Week 01, Lab 03 and 04 | Function, File, I/O, Numpy and Pandas | ✅ Completed |
+| Week 02, Lab 01 | Advanced Pandas and Data Manipluation | ✅ Completed |
+| Week 02, Lab 02 | Data Anaylsis with Python | ✅ Completed |
 | Lab 06 | Advanced Python | 🔄 In Progress |
 | Lab 07 | OOP Concepts | ⏳ Upcoming |
 | Lab 08 | Web Scraping | ⏳ Upcoming |
