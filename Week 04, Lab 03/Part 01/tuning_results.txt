@@ -1,0 +1,30 @@
+HYPERPARAMETER TUNING - RESULTS SUMMARY
+Date Saved: 2026-07-23 20:17:14
+Location: W:\TopSkills\Week 04, Lab 03
+
+Best Model: SVC
+Best Method: Refined Search
+Best Score: 0.9780
+
+Test R² Score: 0.9825
+Random Search R²: 0.9649
+Bayesian R²: 0.9561
+Ensemble R²: 0.8448
+
+Model Parameters:
+  C: 21.55967889037648
+  break_ties: False
+  cache_size: 200
+  class_weight: None
+  coef0: 0.0
+  decision_function_shape: ovr
+  degree: 3
+  gamma: 0.0008449057043952079
+  kernel: rbf
+  max_iter: -1
+  probability: False
+  random_state: 42
+  shrinking: True
+  tol: 0.001
+  verbose: False
+END OF SUMMARY
